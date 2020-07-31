@@ -1,0 +1,10 @@
+C:\Users\black\source\repos\8tasAStar\bin\Debug\8tasAStar.exe.config
+C:\Users\black\source\repos\8tasAStar\bin\Debug\8tasAStar.exe
+C:\Users\black\source\repos\8tasAStar\bin\Debug\8tasAStar.pdb
+C:\Users\black\source\repos\8tasAStar\obj\Debug\8tasAStar.csprojAssemblyReference.cache
+C:\Users\black\source\repos\8tasAStar\obj\Debug\_8tasAStar.Form1.resources
+C:\Users\black\source\repos\8tasAStar\obj\Debug\_8tasAStar.Properties.Resources.resources
+C:\Users\black\source\repos\8tasAStar\obj\Debug\8tasAStar.csproj.GenerateResource.cache
+C:\Users\black\source\repos\8tasAStar\obj\Debug\8tasAStar.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\8tasAStar\obj\Debug\8tasAStar.exe
+C:\Users\black\source\repos\8tasAStar\obj\Debug\8tasAStar.pdb
